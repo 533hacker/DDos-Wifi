@@ -1,12 +1,11 @@
 # DDos-Wifi
 This Tools DDos Attack Wifi
 ```
+rm -rf DDos-Wifi
 pkg update
 pkg upgrade
 pkg install python
 pkg install python2
-pip install wget
-pip2 install wget
 pkg install git
 git clone https://github.com/533hacker/DDos-Wifi
 cd DDos-Wifi
